@@ -44,5 +44,8 @@
     "node-fetch": "2.6.x",
     "node-geocoder": "^4.0.0",
     "ora": "^6.1.0"
+  },
+  "volta": {
+    "node": "16.15.0"
   }
 }
