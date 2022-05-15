@@ -26,4 +26,4 @@ yarn start --file=./Records.json --token=some-token
 
 ## Example result
 
-![https://github.com/hendrikmolder/location-timeline/blob/main/docs/example.png]
+![Screenshot](https://github.com/hendrikmolder/location-timeline/blob/main/docs/example.png)
