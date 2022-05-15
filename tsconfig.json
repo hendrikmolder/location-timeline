@@ -1,0 +1,15 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "module": "esnext",
+    "target": "es2017",
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "swc": true,
+    "esm": true
+  },
+  "moduleResolution": "node",
+}
